@@ -1,0 +1,10 @@
+macOS/conf
+macOS/app
+macOS/res
+macOS/tpl
+
+x86_linux/conf
+x86_linux/app
+x86_linux/res
+x86_linux/tpl
+
