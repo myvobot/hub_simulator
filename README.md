@@ -27,7 +27,7 @@ Although we can run Python code on a host computer (MacOS/Windows/Linux), there 
 
 The Hub obtains an IP address, eg. 192.168.0.80. You should be able to ping this IP on the Dev-host.
 
-The Hub stimulates the hardware inputs/outputs automatically, as they are typically physical/external in nature.
+The Hub simulates the hardware inputs/outputs automatically, as they are typically physical/external in nature.
 
 ## Get Started
 
