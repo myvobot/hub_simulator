@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides host-based simulation for SyncDisplay Hub ("Stimulator").
+This repository provides host-based simulation for SyncDisplay Hub ("Simulator").
 
 SyncDisplay Hub is a typical embedded system. Programming such a system can be extra challenging compared to writing software for a general-purpose computer.
 
@@ -46,7 +46,7 @@ brew install libffi
 
 ### Run the Host-based Simulator
 
-Assume the workspace path is "~/workspace/hub"
+Assume the workspace path is "~/workspace/hub",
 
 ```
 cd ~/workspace/hub
@@ -66,7 +66,7 @@ Replace the "YOUR_SYSTEM_TYPE" with macOS or x86_linux, etc.
 
 The simulator creates some folders. One of them is "app".
 
-- Simply create a text file named app/__init__.py with the content below:
+- Simply create a text file named app/\_\_init\_\_.py with the content below:
 
 ```
 import uasyncio as asyncio
