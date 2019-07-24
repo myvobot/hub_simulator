@@ -90,7 +90,7 @@ class App:
 
 After your App runs smooth and bug-free, you can upload it to the real Hub and runs on a realtime environment.
 
-Kindly note these difference between a simulator and a real Hub:
+Kindly note these differences between a simulator and a real Hub:
 
 - Computing power: the Hub is quite slow compare to any modern x86 computer
 - Memory allocation: usually less than 2MB RAM
